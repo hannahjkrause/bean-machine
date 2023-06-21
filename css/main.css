@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+header img {
+    max-width: 200px;
+    height: auto;
+}
+
+
+
+
+
+/* ======= FOOTER STYLLING ======= */
+footer {
+    background-color: black;
+}
+footer img {
+    width: 40px;
+    height: auto;
+}
